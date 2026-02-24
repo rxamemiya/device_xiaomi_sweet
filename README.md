@@ -24,3 +24,6 @@ Camera  | 64/108 MP wide camera, 8MP ultra wide-angle camera, 5MP macro camera, 
 ## Device picture
 
 ![Xiaomi Redmi Note 10 Pro/Max](https://cdn.dxomark.com/wp-content/uploads/medias/post-79073/Xiaomi-Redmi-Note-10-Pro-_Yoast-image-packshot-review.jpg)
+
+## Contributors
+<a href="https://github.com/rxamemiya/device_xiaomi_sweet/graphs/contributors" target="_blank"><img src="https://contrib.rocks/image?repo=rxamemiya/device_xiaomi_sweet" alt="Avatars of all contributors"></a>
