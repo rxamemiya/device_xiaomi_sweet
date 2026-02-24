@@ -10,6 +10,9 @@ include device/xiaomi/sm6150-common/BoardConfigCommon.mk
 # MiuiCamera
 -include device/xiaomi/miuicamera-sweet/BoardConfig.mk
 
+# Dolby
+-include device/oneplus/dolby/BoardConfig.mk
+
 DEVICE_PATH := device/xiaomi/sweet
 
 # Assert
