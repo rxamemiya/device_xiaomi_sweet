@@ -1,5 +1,5 @@
 # Common Sm6150
-git clone https://github.com/LineageOS/android_device_xiaomi_sm6150-common.git device/xiaomi/sm6150-common
+git clone https://github.com/PixelOS-Devices/android_device_xiaomi_sm6150-common.git device/xiaomi/sm6150-common
 git clone https://gitlab.com/NoPrincessHere/proprietary_vendor_xiaomi_sm6150-common.git vendor/xiaomi/sm6150-common
 
 # Kernel
@@ -14,3 +14,7 @@ git clone https://github.com/LineageOS/android_hardware_xiaomi.git hardware/xiao
 # Miui Camera
 git clone https://github.com/PixelOS-Devices/android_device_xiaomi_miuicamera-sweet.git device/xiaomi/miuicamera-sweet
 git clone git@gitlab.com:NoPrincessHere/proprietary_vendor_xiaomi_miuicamera-sweet.git vendor/xiaomi/miuicamera-sweet
+
+# Dolby
+git clone https://github.com/SoulEye-sweet/device_oneplus_dolby.git device/oneplus/dolby
+git clone https://codeberg.org/SoulEye-sweet/vendor_oneplus_dolby.git vendor/oneplus/dolby
