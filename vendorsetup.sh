@@ -16,5 +16,4 @@ git clone -b sixteen-qpr2 https://github.com/PixelOS-Devices/android_device_xiao
 git clone -b sixteen-qpr2 https://gitlab.com/NoPrincessHere/proprietary_vendor_xiaomi_miuicamera-sweet.git vendor/xiaomi/miuicamera-sweet
 
 # Dolby
-git clone https://github.com/SoulEye-sweet/device_oneplus_dolby.git device/oneplus/dolby
-git clone https://codeberg.org/SoulEye-sweet/vendor_oneplus_dolby.git vendor/oneplus/dolby
+git clone -b sixteen-qpr2 https://gitlab.com/NoPrincessHere/proprietary_vendor_oneplus_dolby.git vendor/oneplus/dolby
