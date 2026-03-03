@@ -12,8 +12,8 @@ git clone https://gitlab.com/NoPrincessHere/proprietary_vendor_xiaomi_sweet.git 
 git clone https://github.com/LineageOS/android_hardware_xiaomi.git hardware/xiaomi
 
 # Miui Camera
-git clone https://github.com/PixelOS-Devices/android_device_xiaomi_miuicamera-sweet.git device/xiaomi/miuicamera-sweet
-git clone git@gitlab.com:NoPrincessHere/proprietary_vendor_xiaomi_miuicamera-sweet.git vendor/xiaomi/miuicamera-sweet
+git clone -b sixteen-qpr2 https://github.com/PixelOS-Devices/android_device_xiaomi_miuicamera-sweet.git device/xiaomi/miuicamera-sweet
+git clone -b sixteen-qpr2 https://gitlab.com/NoPrincessHere/proprietary_vendor_xiaomi_miuicamera-sweet.git vendor/xiaomi/miuicamera-sweet
 
 # Dolby
 git clone https://github.com/SoulEye-sweet/device_oneplus_dolby.git device/oneplus/dolby
